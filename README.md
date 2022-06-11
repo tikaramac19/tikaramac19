@@ -9,6 +9,10 @@
 tikaramac19/tikaramac19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## I am currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9fsbksgos5s9v0drbmwrishz7&cover_image=false&theme=default&bar_color=613583&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## My Github Stat :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tikaramac19&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
