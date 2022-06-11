@@ -18,3 +18,9 @@ You can click the Preview link to take a look at your changes.
 ## I am currently listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9fsbksgos5s9v0drbmwrishz7&cover_image=false&theme=default&bar_color=33d17a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+## CV 
+##### https://tikaramac19.github.io/tikaramac-cv.github.io/
+
+## Portfolio
+#### https://tikaramac19.github.io/portfolio.github.io/
