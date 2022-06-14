@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=F78156&center=true&vCenter=true&width=402&height=61&lines=I+am+a+Computer+Science+Student;Front+End+Developer;Alwayz+trying+to++learn+new+things)](https://git.io/typing-svg)
+
 - 👋 Hello there, I’m @tikaramac19 :Tikaram Acharya !
 - 👀 I’m interested in making websites using ReactJs.
 - 🌱 I’m currently learning Next.js for React framework.
