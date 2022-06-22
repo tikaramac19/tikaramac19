@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-
+###Lets connect through:
 <div align ="left"> 
   <a href="https://www.instagram.com/isra_legend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/israel.pinto.505/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
