@@ -2,7 +2,7 @@
 
 - 👋 Hello there, I’m @tikaramac19 :Tikaram Acharya !
 - 👀 I’m interested in making websites using ReactJs.
-- 🌱 I’m currently learning Redux for state Management.
+- 🌱 I’m currently learning Redux for State Management.
 - 💞️ I’m looking to collaborate on ........
 - 📫 How to reach me : Facebook : Tikaram Ac || twitter : @tikaramac19
 - 😁Pronounce : He/His
