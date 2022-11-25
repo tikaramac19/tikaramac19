@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## CV 
 ##### https://tikaramac19.github.io/tikaramac-cv.github.io/
 
-## Portfolio
+## Portfolio Website
 #### https://tikaramac19.github.io/portfolio
 
 ## MessageMe 
